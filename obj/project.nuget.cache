@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TwGHlPhhjPGyx0AMnq0lXbAA9jL3Xu/iA5MLtCNgneCFv2+5qSjB2gKVGUzvgkGhxxxI2YkXtpPFzrdFnsUtZQ==",
+  "dgSpecHash": "XzNpH+iLa4LY9cDjgrA2zzgutrJMx/TNWLiqWO4boWHiIBu9xNlyPdrOf5C9hJYzJFY8Lmaxja6QOmWtuzE0Kw==",
   "success": true,
-  "projectFilePath": "D:\\Prasanti\\.Net Workspace\\WebAPIApp\\samplewebapiapp\\SampleWebAPIApp.csproj",
+  "projectFilePath": "D:\\Prasanti\\.Net Workspace\\WebAPIApp\\GroceryStoreApp\\SampleWebAPIApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

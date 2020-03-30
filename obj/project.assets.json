@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prasanti\\.Net Workspace\\WebAPIApp\\SampleWebAPIApp\\SampleWebAPIApp.csproj",
+      "projectUniqueName": "D:\\Prasanti\\.Net Workspace\\WebAPIApp\\GroceryStoreApp\\SampleWebAPIApp.csproj",
       "projectName": "SampleWebAPIApp",
-      "projectPath": "D:\\Prasanti\\.Net Workspace\\WebAPIApp\\SampleWebAPIApp\\SampleWebAPIApp.csproj",
+      "projectPath": "D:\\Prasanti\\.Net Workspace\\WebAPIApp\\GroceryStoreApp\\SampleWebAPIApp.csproj",
       "packagesPath": "C:\\Users\\739279\\.nuget\\packages\\",
-      "outputPath": "D:\\Prasanti\\.Net Workspace\\WebAPIApp\\SampleWebAPIApp\\obj\\",
+      "outputPath": "D:\\Prasanti\\.Net Workspace\\WebAPIApp\\GroceryStoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\739279\\AppData\\Roaming\\NuGet\\NuGet.Config"
