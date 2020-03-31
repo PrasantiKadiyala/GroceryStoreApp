@@ -1,6 +1,5 @@
 FROM mcr.microsoft.com/dotnet/core/aspnet:3.1
-WORKDIR /app
-COPY published/SampleWebAPIApp.dll ./
-ENTRYPOINT ["dotnet", "SampleWebAPIApp.dll"]
+COPY published/SampleWebAPIApp.dll app/
+ENTRYPOINT ["dotnet", "app/SampleWebAPIApp.dll"]
 EXPOSE 8000
 
